@@ -234,21 +234,3 @@
  }
 
 
-/* media  */
-@media screen and (max-width:576px){
-    .menu,
-    .section,.left{
-        flex-direction: column;
-    }
-    .section-title,.header-width{
-        width: 0px;
-        
-    }
-
-    .section-para{
-        width: 300px;
-    }
-    
-    
-}
-
